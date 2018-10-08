@@ -8,5 +8,5 @@ https://www.gitkraken.com/ - check this out!
 - Download the .deb file
 - open terminal and go into your downloads (cd Downloads)
 - `sudo dpkg -i name.deb`
-
+- log in with you github
 
