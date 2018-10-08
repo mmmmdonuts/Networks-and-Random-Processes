@@ -4,3 +4,9 @@ Notebooks will be uploaded for each support class. These will provide useful hin
 
 https://www.gitkraken.com/ - check this out!
 
+**Steps:**
+- Download the .deb file
+- open terminal and go into your downloads (cd Downloads)
+- `sudo dpkg -i name.deb`
+
+
