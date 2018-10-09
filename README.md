@@ -10,3 +10,5 @@ https://www.gitkraken.com/ - check this out!
 - `sudo dpkg -i name.deb`
 - log in with you github
 
+**Useful links for the assignments:**
+- [https://en.wikipedia.org/wiki/Log-normal_distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
