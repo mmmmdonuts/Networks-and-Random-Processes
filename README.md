@@ -14,3 +14,5 @@ For GitHub help, check out https://www.gitkraken.com/
 
 **Useful links for the assignments:**
 - Log Normal Distribution: [https://en.wikipedia.org/wiki/Log-normal_distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
+- Log Normal Scipy Documentstion: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.lognorm.html
+- KDE plot visualisation: https://mathisonian.github.io/kde/
