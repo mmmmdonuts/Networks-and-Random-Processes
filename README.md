@@ -16,3 +16,5 @@ For GitHub help, check out https://www.gitkraken.com/
 - Log Normal Distribution: [https://en.wikipedia.org/wiki/Log-normal_distribution](https://en.wikipedia.org/wiki/Log-normal_distribution)
 - Log Normal Scipy Documentstion: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.lognorm.html
 - KDE plot visualisation: https://mathisonian.github.io/kde/
+- Fokker-Planck Equation: book Stochastic Processes in physics and chemistry - N.G. Van Kampen
+- Ornstein-Uhlenbeck process: [https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process#Fokker%E2%80%93Planck_equation_representation](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process#Fokker%E2%80%93Planck_equation_representation)
