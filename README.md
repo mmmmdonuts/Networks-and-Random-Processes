@@ -18,3 +18,4 @@ For GitHub help, check out https://www.gitkraken.com/
 - KDE plot visualisation: https://mathisonian.github.io/kde/
 - Fokker-Planck Equation: book Stochastic Processes in physics and chemistry - N.G. Van Kampen
 - Ornstein-Uhlenbeck process: [https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process#Fokker%E2%80%93Planck_equation_representation](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process#Fokker%E2%80%93Planck_equation_representation)
+- Colour options in matplotlib [https://xkcd.com/color/rgb/](https://xkcd.com/color/rgb/)
