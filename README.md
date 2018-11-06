@@ -48,8 +48,23 @@ For GitHub help, check out https://www.gitkraken.com/
 `Support Class 5.ipynb`
 - Orenstein-Uhlenbeck Process 
 - simulated by finite difference approximation (taking the Weiner incremenet by sampling from normal distributioon with zero mean and dt vaiance)
-- simulated using sdeint (python stochastic differential equations, numerical integration)
+- simulated using `sdeint` (python stochastic differential equations, numerical integration)
 
 `Support Class 6.ipynb`
+- Moran model (similar to wright-fisher but continuous time)
+- CTMC with waiting times
+- introduction to networks and using the `networkx` package in python
+- degree distribution, clustering, transitivity, distance, largest component 
 
+`Support Class 7.ipynb`
+- Erods-Renyi random graphs 
+- compare degree distribution to binomial distribution
+- expected size of largest component for multiple realisations 
+- expected local clustering coefficient for multiple realisations 
+- Wigner semi-circle law 
 
+`Support Class 8.ipynb`
+- compare degree distribution to poisson distribution 
+- Barabsai-albert model 
+- empirical tail distribution 
+- expected degree of nearest neighbour given node has degree k
