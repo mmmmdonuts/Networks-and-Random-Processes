@@ -19,3 +19,37 @@ For GitHub help, check out https://www.gitkraken.com/
 - Fokker-Planck Equation: book Stochastic Processes in physics and chemistry - N.G. Van Kampen
 - Ornstein-Uhlenbeck process: [https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process#Fokker%E2%80%93Planck_equation_representation](https://en.wikipedia.org/wiki/Ornstein%E2%80%93Uhlenbeck_process#Fokker%E2%80%93Planck_equation_representation)
 - Colour options in matplotlib [https://xkcd.com/color/rgb/](https://xkcd.com/color/rgb/)
+
+# Detail of each notebook:
+
+`Support Class 1.ipynb`
+- basic linear algebra in python
+- simple random walk animation 
+- function SRW, a simple random walk with arguements p (probability steping up), tmax (when to terminate the walk) and N (number of replications)
+- empirical distribution calculated at a fixed time (hist plot over possible states at time n)
+- simulation with periodic boundary conditions (modulus L (L =10))
+- simulation with closed boundary conditions (reflects at 10 and 0)
+
+`Support Class 2.ipynb`
+- Geometric random walk
+- ergodic average 
+- empirical tail (1 - CDF)
+- Wright-fisher model ( heatmaps)
+- time to reach steady state
+- Gershgorin disk theorem 
+
+`Support Class 3.ipynb`
+- general plotting techniques in matplotlib [http://matplotlib.org/1.5.3/api/pyplot_api.html#matplotlib.pyplot.plot]( http://matplotlib.org/1.5.3/api/pyplot_api.html#matplotlib.pyplot.plot)
+
+`Support Class 4.ipynb`
+- Kingman's Coalescent 
+- CTMC (waiting times, exponentially distributed)
+
+`Support Class 5.ipynb`
+- Orenstein-Uhlenbeck Process 
+- simulated by finite difference approximation (taking the Weiner incremenet by sampling from normal distributioon with zero mean and dt vaiance)
+- simulated using sdeint (python stochastic differential equations, numerical integration)
+
+`Support Class 6.ipynb`
+
+
